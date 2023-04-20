@@ -17,7 +17,7 @@
 ### 👨‍💻 About me :
 
 - 🔭 I’m currently working as a freelancer frontend developer
-- 🌱 I’m currently learning Javscript, React and NodeJs
+- 🌱 I’m currently learning Javascript, React and NodeJs
 - 👯 I’m looking to collaborate on a differents projects
 - 💬 Ask me about HTML, CSS and web design
 - 📫 How to reach me: **ezequiel.ruedasanchez@gmail.com**
