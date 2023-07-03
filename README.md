@@ -1,16 +1,22 @@
-<div id="header" align="center">
-    <h1 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h1>
-    <h3 align="center"> Frontend developer and full stack developer soon.<br> BSc + MSc Computer Science Student. <br> Avid open source supporter. <br> I like working in group and contribute with ideas quickly</h3>
+<div align="center">
+    
+    <br />
+    <br />
+
+  <h2 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h2>
+
+  Frontend developer and full stack developer candidate 
+  BSc + MSc Computer Science Student
+  Avid open source supporter
+  I like working in group and contribute with ideas quickly
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/eruedasanchez/eruedasanchez)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/RSanchez_Eze?style=social)](https://twitter.com/intent/follow?screen_name=RSanchez_Eze)
+
+  
+
 </div>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/e-ruedasanchez/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LnkedIn badge">
-    </a>
-    <a href="https://twitter.com/RSanchez_Eze">
-        <img src="https://img.shields.io/twitter/follow/RSanchez_Eze?color=blue&logo=twitter&style=for-the-badge" alt="Twitter badge">
-    </a>
-</div>
 
 ---
 
