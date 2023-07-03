@@ -1,6 +1,6 @@
 <div align="center">
     
-<h2 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h2>
+<h1 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h1>
 
   Frontend developer and full stack developer candidate  
   BSc + MSc Computer Science Student <br>
