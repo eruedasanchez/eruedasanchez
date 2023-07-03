@@ -2,7 +2,7 @@
     
 <h2 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h2>
 
-  Frontend developer and full stack developer candidate <br>  
+  Frontend developer and full stack developer candidate  
   BSc + MSc Computer Science Student <br>
   Avid open source supporter <br>
   I like working in group and contribute with ideas quickly <br>
