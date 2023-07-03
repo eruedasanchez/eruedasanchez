@@ -1,17 +1,13 @@
 <div align="center">
     
-    <br />
-    <br />
-
-  <h2 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h2>
+<h2 align="center">Hi, I'm Ezequiel Rueda Sanchez 👋</h2>
 
   Frontend developer and full stack developer candidate 
   BSc + MSc Computer Science Student
   Avid open source supporter
   I like working in group and contribute with ideas quickly
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/eruedasanchez/eruedasanchez)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/RSanchez_Eze?style=social)](https://twitter.com/intent/follow?screen_name=RSanchez_Eze)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RSanchez_Eze?style=social)](https://twitter.com/intent/follow?screen_name=RSanchez_Eze)
 
   
 
