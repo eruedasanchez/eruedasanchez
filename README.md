@@ -30,6 +30,7 @@
 <div align="left">
     <h3> 🔨 Languajes and Tools:</h3>
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="typescript" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="javascript" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="python" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="c" width="40" height="40">&nbsp;
