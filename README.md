@@ -19,7 +19,7 @@
 ### 👨‍💻 About me :
 
 - 🔭 I’m currently working as a frontend developer
-- 🌱 I’m currently learning Angular, PHP, MySQL and NextJs
+- 🌱 I’m currently learning Typescript, PostgreSQL and NextJs
 - 👯 I’m looking to collaborate on a differents projects
 - 💬 Ask me about HTML, CSS and web design
 - 📫 How to reach me: **ezequiel.ruedasanchez@gmail.com**
