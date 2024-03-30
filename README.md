@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About me :
 
-- 🔭 I’m currently working as a frontend developer
+- 🔭 I’m currently working as a frontend developer in Infosis
 - 🌱 I’m currently learning Typescript, Redux and NextJs
 - 👯 I’m looking to collaborate on a differents projects
 - 📫 How to reach me: **ezequiel.ruedasanchez@gmail.com**
